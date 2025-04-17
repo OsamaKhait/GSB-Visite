@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FFF4F7">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView android:text="Nom :" android:textStyle="bold" />
+        <TextView android:id="@+id/nomTextView" android:layout_marginBottom="12dp" />
+
+        <TextView android:text="Prénom :" android:textStyle="bold" />
+        <TextView android:id="@+id/prenomTextView" android:layout_marginBottom="12dp" />
+
+        <TextView android:text="Adresse :" android:textStyle="bold" />
+        <TextView android:id="@+id/adresseTextView" android:layout_marginBottom="12dp" />
+
+        <TextView android:text="Téléphone :" android:textStyle="bold" />
+        <TextView android:id="@+id/telTextView" android:layout_marginBottom="12dp" />
+
+        <TextView android:text="Spécialité :" android:textStyle="bold" />
+        <TextView android:id="@+id/specialiteTextView" android:layout_marginBottom="12dp" />
+
+    </LinearLayout>
+</ScrollView>
