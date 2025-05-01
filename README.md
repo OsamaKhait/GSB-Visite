@@ -74,7 +74,8 @@ Toutes les requêtes nécessitent ce token dans l’en-tête HTTP.
 
 ## 📸 Captures d’écran
 
-> *(À insérer : écran de connexion, liste praticiens, formulaire de rapport, historique...)*
+<img width="958" alt="Capture d’écran 2025-05-01 à 16 22 04" src="https://github.com/user-attachments/assets/9c8b3fa2-03b9-4fff-b14a-a8f840b35168" />
+
 
 ## 👨‍💻 Auteur
 
